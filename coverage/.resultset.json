@@ -1,0 +1,42 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/chezmichel/Documents/ThpNext/thebikingproject/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/chezmichel/Documents/ThpNext/thebikingproject/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/chezmichel/Documents/ThpNext/thebikingproject/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/chezmichel/Documents/ThpNext/thebikingproject/app/controllers/application_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/chezmichel/Documents/ThpNext/thebikingproject/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/chezmichel/Documents/ThpNext/thebikingproject/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/chezmichel/Documents/ThpNext/thebikingproject/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1555334366
+  }
+}
